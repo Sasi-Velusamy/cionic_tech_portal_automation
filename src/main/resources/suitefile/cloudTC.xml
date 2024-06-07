@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Sample Suite File -->
+
+<suite name="Cloud Test Case">
+
+	<test name="Login Test">
+		<classes>
+			<!-- <class name="com.cionic.testscript.TestLoginLogout" /> -->
+			<!-- <class name="com.cionic.testscript.TestInvalidEmail" /> -->
+			<class name="com.cionic.testscript.TestInvalidEmailToken" />
+		</classes>
+	</test>
+
+</suite>
+

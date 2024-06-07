@@ -1,0 +1,7 @@
+.classpath
+.project
+.settings/
+application.log
+target/
+test-output/
+log4j-application.log
